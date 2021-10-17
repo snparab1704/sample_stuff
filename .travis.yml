@@ -7,3 +7,5 @@ install:
 script:
   - pytest -s test_unit.py
   - coverage run -m pytest test_unit
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
