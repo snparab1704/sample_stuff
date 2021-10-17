@@ -6,6 +6,6 @@ install:
   - pip install coverage
 script:
   - pytest -s test_unit.py
-  - coverage run -m pytest test_unit
+  - coverage run -m pytest test_unit.py
 after_success:
   - bash <(curl -s https://codecov.io/bash)
