@@ -3,5 +3,7 @@ python:
   - "3.7.1"
 install:
   - pip3 install pytest
+  - pip install coverage
 script:
   - pytest -s test_unit.py
+  - coverage run -m pytest test_unit
