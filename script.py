@@ -2,7 +2,7 @@
 
 def add(num1: int,num2: int):
     """
-        Add 2 numbers
+        Add 2 numbers and provide the result
     """
     print("Good Day, World!")
     return num1+num2
