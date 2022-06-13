@@ -15,3 +15,6 @@
 |wish|https://www.wish.com/careers/engineering
 |cisco|https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&21181=%5B187%5D&21181_format=6023&21183=%5B34442672%2C174%2C175%2C177%2C178%2C179%2C180%2C211849%2C176%2C181%5D&21183_format=6024&listFilterMode=1
 |qualtrics|https://www.qualtrics.com/careers/us/en/search-results?keywords=new%20grad&from=40&s=1
+|stripe|https://stripe.com/jobs/search?teams=Banking+as+a+Service&teams=Climate&teams=Connect&teams=Crypto&teams=Mobile&teams=New+Financial+Products&teams=Payments&teams=Platform&teams=Revenue+%26+Financial+Management&teams=Tax&teams=Terminal&remote_locations=North+America--US+Remote
+|capital one|https://www.capitalonecareers.com/search-jobs
+|palantir|https://jobs.lever.co/palantir?commitment=Full-time&team=Dev
