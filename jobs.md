@@ -36,5 +36,5 @@ willowtree|https://www.willowtreeapps.com/careers/jobs
 yext|https://boards.greenhouse.io/yext
 intuit|https://jobs.intuit.com/search-jobs/United%20States/27595/2/6252001/39x76/-98x5/50/2
 expedia|https://lifeatexpediagroup.com/jobs/?location=United%20States%20-%20California|United%20States%20-%20California%20-%20San%20Diego|United%20States%20-%20California%20-%20San%20Francisco|United%20States%20-%20California%20-%20West%20Hollywood|United%20States%20-%20Colorado%20-%20Denver|United%20States%20-%20Florida%20-%20Miami|United%20States%20-%20Georgia%20-%20Atlanta|United%20States%20-%20Hawaii%20-%20Honolulu|United%20States%20-%20Illinois%20-%20Chicago|United%20States%20-%20Missouri%20-%20Springfield|United%20States%20-%20Nevada%20-%20Las%20Vegas|United%20States%20-%20New%20York|United%20States%20-%20Texas%20-%20Austin|United%20States%20-%20Texas%20-%20Dallas|United%20States%20-%20Washington|United%20States%20-%20Washington%20-%20Seattle&job_function=Development&page=3
-
+lenovo|https://jobs.lenovo.com/en_US/careers/SearchJobs/?12523=%5B488%5D&12523_format=4285&1808=%5B326205%5D&1808_format=1054&listFilterMode=1&jobSort=relevancy&jobRecordsPerPage=10&jobOffset=10&sort=relevancy
 
