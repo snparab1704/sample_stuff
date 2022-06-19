@@ -40,3 +40,4 @@ lenovo|https://jobs.lenovo.com/en_US/careers/SearchJobs/?12523=%5B488%5D&12523_f
 uber|https://www.uber.com/us/en/careers/list/?department=University
 old mission|https://www.oldmissioncapital.com/careers/
 ebay|https://jobs.ebayinc.com/search-jobs?k=
+honeywell|https://careers.honeywell.com/us/en
