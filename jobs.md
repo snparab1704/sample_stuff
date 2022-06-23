@@ -41,3 +41,24 @@ uber|https://www.uber.com/us/en/careers/list/?department=University
 old mission|https://www.oldmissioncapital.com/careers/
 ebay|https://jobs.ebayinc.com/search-jobs?k=
 honeywell|https://careers.honeywell.com/us/en
+janestreet | https://www.janestreet.com/join-jane-street/apply/
+fidelity | https://jobs.fidelity.com/students/#!
+stytch | https://jobs.ashbyhq.com/stytch?departmentId=0c06150f-b42c-40c2-a0f4-271b9a2ab26b&employmentType=FullTime
+cruise | https://www.getcruise.com/careers/jobs
+airtable | https://airtable.com/careers#open-positions
+grubhub | https://careers-grubhub.icims.com/jobs/intro
+asana | https://asana.com/jobs/university-recruiting#jobs
+voleon | https://voleon.com/index.html%3Fp=124.html
+sig | https://careers.sig.com/us-recentgraduate-jobs?from=20&s=1&rk=l-us-recentgraduate-jobs
+johnson | https://jobs.jnj.com/jobs?page=5&keywords=2023&sortBy=relevance
+drw | https://drw.com/work-at-drw/category/technology/
+capital | https://jobs.capitalgroup.com/search/?q=&q2=&alertId=&locationsearch=&title=2023&location=&date=
+five rings | https://fiverings.avature.net/careers/SearchJobs/?523=530&523_format=522&listFilterMode=1&folderRecordsPerPage=6&
+trading | http://www.belvederetrading.com/jobs/
+marketaxxess | https://www.marketaxess.com/careers/current-openings
+brew | https://www.brex.com/careers/#jobsBoard
+red ventures | https://www.redventures.com/careers/positions/tech
+imc | https://careers.imc.com/us/en/c/graduates-jobs
+optiver | https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=student-and-graduate&filter-department=technology
+general mototrs | https://search-careers.gm.com/jobs/?category=Recent%20Graduates
+
