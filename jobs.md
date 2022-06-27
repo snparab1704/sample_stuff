@@ -61,4 +61,28 @@ red ventures | https://www.redventures.com/careers/positions/tech
 imc | https://careers.imc.com/us/en/c/graduates-jobs
 optiver | https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=student-and-graduate&filter-department=technology
 general mototrs | https://search-careers.gm.com/jobs/?category=Recent%20Graduates
+circle | https://www.circle.com/en/careers
+ixlearning | https://www.ixl.com/company/careers
+Snap | https://www.snap.com/en-US/jobs?lang=en-GB
+goldman | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html
+qualtrics | https://www.qualtrics.com/careers/us/en/search-results?from=30&s=1
+robinhood | https://careers.robinhood.com/
+l3hariss | https://careers.l3harris.com/category/new-grads-and-interns-jobs/4832/62721/1
+secure frame | https://secureframe.com/careers
+keysight |https://jobs.keysight.com/go/Graduates/3065200/?q=&q2=&alertId=&title=software&location=&shifttype=&department=
+citrix |https://jobs.citrix.com/jobs/search/graduate-search-page
+nuro|https://www.nuro.ai/careers
+capital one |https://www.capitalonecareers.com/search-jobs/new%20grad/1732/1
+paypal|https://paypal.eightfold.ai/careers?query=globaluniversitygraduatesoftwareengineering&pid=274889961056&domain=paypal.com
+affirm|https://www.affirm.com/careers/
+acorns|https://www.acorns.com/career-opportunities/
+ibm|https://www.ibm.com/us-en/employment/entrylevel/index.html#jobs?%23jobs=&job-search=
+tibco|https://www.tibco.com/careers/opportunities?tid%5B%5D=2611&tid_1%5B%5D=3761
+tibco|https://www.tibco.com/careers/opportunities?tid%5B%5D=2611&tid_1%5B%5D=3761
+quora|https://www.quora.com/careers/engineering
+datadog|https://www.datadoghq.com/early-careers/engineering/
+silicon labs|https://jobs.jobvite.com/silabs/jobs/team?c=University%20Recruiting
+benchling|https://www.benchling.com/careers
+
+
 
