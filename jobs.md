@@ -83,6 +83,19 @@ quora|https://www.quora.com/careers/engineering
 datadog|https://www.datadoghq.com/early-careers/engineering/
 silicon labs|https://jobs.jobvite.com/silabs/jobs/team?c=University%20Recruiting
 benchling|https://www.benchling.com/careers
+expedia | https://lifeatexpediagroup.com/jobs?keyword=early%20careers
+roblox|https://jobs.roblox.com/careers?areaOfWork=internships%20and%20new%20graduates&pid=137448067325&domain=roblox.com&triggerGoButton=false
+citadel|https://www.citadel.com/careers/open-positions/positions-for-students/
+blend|https://blend.com/company/careers/job-openings/
+zoom|https://careers.zoom.us/jobs/search
+databricks|https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all
+point72|https://careers.point72.com/
+factset|https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers?q=2023&__hstc=&__hssc=&hsCtaTracking=5bad2784-dc05-40fe-a68d-fee1a12cdc9b%7C397e76f1-32f7-4fbf-bd20-d38c0c14c7a9&timeType=9189f30ce6150127b3df0c88e70d7500&jobFamilyGroup=b1a56753eb2c015265529116f701208f
+ironclad|https://ironcladapp.com/careers/
+verkada|https://www.verkada.com/careers/#open-positions
+
+
+
 
 
 
