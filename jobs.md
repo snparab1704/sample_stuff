@@ -93,6 +93,22 @@ point72|https://careers.point72.com/
 factset|https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers?q=2023&__hstc=&__hssc=&hsCtaTracking=5bad2784-dc05-40fe-a68d-fee1a12cdc9b%7C397e76f1-32f7-4fbf-bd20-d38c0c14c7a9&timeType=9189f30ce6150127b3df0c88e70d7500&jobFamilyGroup=b1a56753eb2c015265529116f701208f
 ironclad|https://ironcladapp.com/careers/
 verkada|https://www.verkada.com/careers/#open-positions
+rippling|https://www.rippling.com/careers/open-roles
+yext|https://www.yext.com/careers/open-positions?input=&facetFilters=%7B%22c_departmentList1%22%3A%5B%7B%22c_departmentList1%22%3A%7B%22%24eq%22%3A%22Technology%22%7D%7D%5D%2C%22c_jobLocationShortDescription%22%3A%5B%5D%7D
+anyscale|https://jobs.lever.co/anyscale?department=Engineering
+doordash|https://careers.doordash.com/?departments=engineering&search=new%20grad#open-positions
+twilio|https://www.twilio.com/company/jobs#open-positions
+eab|https://recruit.hirebridge.com/v3/Jobs/list.aspx?cid=7856
+vise|https://vise.com/careers/
+gem|https://www.gem.com/company/careers#jobboard
+pininterest|https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/
+two sigma|https://careers.twosigma.com/careers/SearchJobs/new%20grad?2047=%5B7168403%5D&2047_format=1532&listFilterMode=1
+visa|https://careers.smartrecruiters.com/Visa/university-recruiting
+jerry|https://jobs.ashbyhq.com/Jerry?departmentId=61577184-59b1-4b68-a158-0181d575baea&employmentType=FullTime
+cadence|https://cadence.wd1.myworkdayjobs.com/Univ_Careers?q=new%20grad&timeType=59ec2ade908946248e84acbf58584a93&Location_Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=f1fb037aee284ce78ac3518b03680c41
+redfin|https://www.redfin.com/careers/departments/engineering
+jerry|https://jobs.ashbyhq.com/Jerry?departmentId=61577184-59b1-4b68-a158-0181d575baea&employmentType=FullTime
+oracle|https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?lastSelectedFacet=AttributeChar6&location=United+States&locationId=300000000149325&selectedCategoriesFacet=300000001917356&selectedFlexFieldsFacets=%22AttributeChar6%7C3+to+5%2B+years%3B0+to+2%2B+years%22&selectedLocationsFacet=300000000149325&selectedPostingDatesFacet=30&sortBy=POSTING_DATES_DESC
 
 
 
