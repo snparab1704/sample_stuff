@@ -109,6 +109,14 @@ cadence|https://cadence.wd1.myworkdayjobs.com/Univ_Careers?q=new%20grad&timeType
 redfin|https://www.redfin.com/careers/departments/engineering
 jerry|https://jobs.ashbyhq.com/Jerry?departmentId=61577184-59b1-4b68-a158-0181d575baea&employmentType=FullTime
 oracle|https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?lastSelectedFacet=AttributeChar6&location=United+States&locationId=300000000149325&selectedCategoriesFacet=300000001917356&selectedFlexFieldsFacets=%22AttributeChar6%7C3+to+5%2B+years%3B0+to+2%2B+years%22&selectedLocationsFacet=300000000149325&selectedPostingDatesFacet=30&sortBy=POSTING_DATES_DESC
+draftkings|https://careers.draftkings.com/students-grads/entry-level-full-time/
+salesforce|https://salesforce.wd1.myworkdayjobs.com/Futureforce_NewGradRoles/14/refreshFacet/318c8bb6f553100021d223d9780d30be
+workday|https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers
+coursera|https://about.coursera.org/careers/jobs/?gh_jid=4235110004
+delta|https://delta.avature.net/careers/SearchJobs/software/?2884=75200&2884_format=3665&listFilterMode=1&jobOffset=10
+seatgeek|https://seatgeek.com/jobs?departments=engineering&locations=all
+squarespace|https://www.squarespace.com/careers/early-career
+westerndigital|https://careers.smartrecruiters.com/WesternDigital/university
 
 
 
