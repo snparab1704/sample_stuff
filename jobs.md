@@ -117,6 +117,14 @@ delta|https://delta.avature.net/careers/SearchJobs/software/?2884=75200&2884_for
 seatgeek|https://seatgeek.com/jobs?departments=engineering&locations=all
 squarespace|https://www.squarespace.com/careers/early-career
 westerndigital|https://careers.smartrecruiters.com/WesternDigital/university
+tiktok|https://careers.tiktok.com/position?keywords=&category=&location=&project=6988163095924115726%2C7051451548007024904%2C6994735572381174052&type=2&job_hot_flag=&current=5&limit=10&functionCategory=
+better|https://boards.greenhouse.io/better
+sentry|https://sentry.io/careers/#openings
+abnormal security|https://careers.abnormalsecurity.com/open-roles
+aruba|https://careers.arubanetworks.com/jobs/
+hpe|https://careers.hpe.com/us/en/search-results?from=30&s=1
+discovery|https://jobs.discovery.com/careers-home/jobs?page=1&sortBy=relevance&tags3=Direct%20to%20Consumer%7CSoftware%20Engineering%7CProduct%20Management%7CData%20%26%20Analytics&country=United%20States
+audible|https://www.audiblecareers.com/search-jobs/new%20grad/27552/1
 
 
 
